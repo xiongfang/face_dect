@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf_test_wk"
+all_model_checkpoint_paths: "tf_test_wk"
